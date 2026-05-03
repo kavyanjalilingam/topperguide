@@ -223,14 +223,9 @@ MIT License
 
 ---
 
-
 ## 📧 Contact
-LINGAM KAVYANJALI
+Kavyanjali Lingam
 +919553578418
 kavyanjalilingam@gmail.com
-
-Open an issue on GitHub for queries.
-
----
 
 ✨ Built for students who want to **study smarter, not harder**
