@@ -186,14 +186,6 @@ npm run dev
 
 ---
 
-## 🌐 Access
-
-* Frontend → http://localhost:3000
-* Backend → http://localhost:8000
-* API Docs → http://localhost:8000/docs
-
----
-
 ## 📁 Project Structure
 
 ```
