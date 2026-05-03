@@ -2,8 +2,6 @@
 
 **AI-Powered Past Paper Analyzer & Smart Study Planner**
 
-🔗 **Live Demo:** https://janine-ornamented-surrenderingly.ngrok-free.dev/
-
 🎥 **Demo Video:** https://drive.google.com/file/d/1ZTi0NEi72B1kUMq3hkfIhEPSwxw7tBF-/view?usp=drivesdk
 
 ---
@@ -207,22 +205,6 @@ topperguide/
 └── README.md
 ```
 
----
-
-## 🔧 API Endpoints
-
-### Study Planner
-
-* `POST /api/study-plan/generate`
-* `GET /api/study-plan/{subject_id}`
-
-### Practice Questions
-
-* `POST /api/practice/generate`
-* `GET /api/practice/similar/{question_id}`
-
----
-
 ## 🎯 How It Works
 
 1. Upload past papers
@@ -231,17 +213,6 @@ topperguide/
 4. Identify important topics
 5. Generate study plan
 6. Practice with generated questions
-
----
-
-## ⚙️ Configuration
-
-| Variable       | Description  | Default     |
-| -------------- | ------------ | ----------- |
-| OPENAI_API_KEY | API key      | —           |
-| OPENAI_MODEL   | Model name   | gpt-4o-mini |
-| DATABASE_URL   | Database     | SQLite      |
-| UPLOAD_DIR     | File storage | ./uploads   |
 
 ---
 
