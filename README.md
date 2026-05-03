@@ -259,16 +259,11 @@ MIT License
 
 ---
 
-## 🙏 Acknowledgments
-
-* Ollama
-* OpenAI / NVIDIA APIs
-* FastAPI
-* React + Vite
-
----
 
 ## 📧 Contact
+LINGAM KAVYANJALI
++919553578418
+kavyanjalilingam@gmail.com
 
 Open an issue on GitHub for queries.
 
